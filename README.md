@@ -1,0 +1,2 @@
+# DATABASE---Homework-Exercise1
+HOMEWORK LESSON 1 - SQL
